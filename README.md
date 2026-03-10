@@ -102,6 +102,7 @@ function normalize(name){
   return name.toLowerCase().replace(/[^a-z0-9]/g,"");
 }
 
+---
 Why I Built This
 
 This project was created to:
