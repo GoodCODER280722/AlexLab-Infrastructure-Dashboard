@@ -102,4 +102,41 @@ function normalize(name){
   return name.toLowerCase().replace(/[^a-z0-9]/g,"");
 }
 
+Why I Built This
 
+This project was created to:
+
+Learn how monitoring APIs work
+
+Practice integrating infrastructure services with a custom UI
+
+Build a real monitoring surface for my homelab environment
+
+Gain experience troubleshooting API responses and service routing
+
+
+Future Improvements
+
+Planned improvements include:
+
+latency metrics display
+
+uptime percentage tracking
+
+service response times
+
+Grafana integration
+
+dark/light theme toggle
+
+alerting hooks
+
+
+Author
+
+Alex Crick
+
+Self-hosted infrastructure enthusiast exploring container orchestration, monitoring, and AI-assisted development.
+
+Portfolio:
+(https://alex-crick-ai-portfolio.notion.site/Alex-Crick-AI-Prompt-Engineering-Portfolio-2f06340f43dc80388661dfdd8b1b066a)
